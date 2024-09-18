@@ -1,10 +1,4 @@
 # HealthCare_AndroidApp
-Sure, here's a sample `README.md` file for your Health Care App:
-
----
-
-# Health Care App
-
 ## Overview
 
 The Health Care App is an Android application designed to facilitate patient monitoring and medical record management. It provides a platform for patients and healthcare providers to manage medical records, track health metrics, and monitor patient status.
